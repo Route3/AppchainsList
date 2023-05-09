@@ -1,0 +1,14 @@
+{
+    "name": "AssetMantle",
+    "shortName": "MNTL",
+    "logo": "https://atomscan.com/img/icons/chains/assetmantle.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/assetmantle",
+    "jsonRPC": "",
+    "url": "https://assetmantle.one/",
+    "description": "AssetMantle’s suite of products is focused on the NFT ecosystem, helping you up your game with digital asset ownership",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

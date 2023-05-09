@@ -1,0 +1,14 @@
+{
+    "name": "Umee",
+    "shortName": "UMEE",
+    "logo": "https://atomscan.com/img/icons/chains/umee.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/umee",
+    "jsonRPC": "",
+    "url": "https://umee.cc/",
+    "description": "The most programmable, safety-first, autonomous lending algorithm built as a blockchain. Umee is reshaping the global debt markets in Web3.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Wraptag",
+    "shortName": "",
+    "logo": "https://pbs.twimg.com/profile_images/1441330278413131788/e6o79amj_400x400.jpg",
+    "ecosystem": "Avalanche",
+    "blockExplorer": "https://subnets.avax.network/subnets/A1iV86hr1toCL7y4F6PM263n9fomCLUDDwpqFT2sG9FTCZJCm",
+    "jsonRPC": "",
+    "url": "https://wraptag.io/en/",
+    "description": "WrapTag digitizes your amazing collection into NFT Certificate that bound to an irreplicable physical NFC Tag.",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

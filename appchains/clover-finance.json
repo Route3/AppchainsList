@@ -1,0 +1,14 @@
+{
+    "name": "Clover Finance",
+    "shortName": "CLV",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8384.png",
+    "ecosystem": "Polkadot",
+    "blockExplorer": "https://tx.clover.finance/#/",
+    "jsonRPC": "https://api-para.clover.finance",
+    "url": "https://clv.org/",
+    "description": "Clover Finance is a Polkadot parachain that provides a one-stop, easy‑to‑use blockchain infrastructure and an ethereum virtual machine (EVM) compatible framework for Substrate‑based applications.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

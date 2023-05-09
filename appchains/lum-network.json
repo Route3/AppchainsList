@@ -1,0 +1,12 @@
+{
+    "name": "Lum Network",
+    "shortName": "LUM",
+    "logo": "https://atomscan.com/img/icons/chains/lum.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/lum-network",
+    "jsonRPC": "",
+    "url": "https://lum.network/",
+    "description": "Lum Network is a fast, secure and sustainable open source blockchain, built to enable anyone to use decentralized applications.",
+    "category": [],
+    "tags": []
+}

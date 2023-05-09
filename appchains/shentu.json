@@ -1,0 +1,14 @@
+{
+    "name": "Shentu",
+    "shortName": "CTK",
+    "logo": "https://atomscan.com/img/icons/chains/certik.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/shentu",
+    "jsonRPC": "",
+    "url": "https://www.shentu.technology/",
+    "description": "Provable Trust For All",
+    "category": [],
+    "tags": [
+        "Security"
+    ]
+}

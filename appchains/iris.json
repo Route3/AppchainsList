@@ -1,0 +1,15 @@
+{
+    "name": "Iris",
+    "shortName": "IRIS",
+    "logo": "https://atomscan.com/img/icons/chains/iris.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/iris-network",
+    "jsonRPC": "",
+    "url": "https://www.irisnet.org/",
+    "description": "Interchain #NFT Hub for new-gen #DApps. IRIS Hub enables cross-chain interoperability while providing modules to support distributed business systems.",
+    "category": [
+        "Infrastructure",
+        "NFT"
+    ],
+    "tags": []
+}

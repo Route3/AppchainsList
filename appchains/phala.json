@@ -1,0 +1,16 @@
+{
+    "name": "Phala",
+    "shortName": "PHA",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6841.png",
+    "ecosystem": "Polkadot",
+    "blockExplorer": "https://phala.subscan.io/",
+    "jsonRPC": "",
+    "url": "https://www.phala.network/en/",
+    "description": "Phala Network is a privacy-preserving cloud computing service based on Substrate that provides computational power comparable to existing cloud services and protects the privacy of managed programs.",
+    "category": [
+        "Identity"
+    ],
+    "tags": [
+        "Privacy"
+    ]
+}

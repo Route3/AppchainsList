@@ -1,0 +1,14 @@
+{
+    "name": "Medibloc",
+    "shortName": "MED",
+    "logo": "https://atomscan.com/img/icons/chains/medibloc.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/medibloc",
+    "jsonRPC": "",
+    "url": "https://medibloc.co.kr/en/",
+    "description": "MediBloc is a blockchain-based digital healthcare company with the lofty goals of building a patient-centric healthcare data platform and ultimately helping people lead healthier lives.",
+    "category": [],
+    "tags": [
+        "Data"
+    ]
+}

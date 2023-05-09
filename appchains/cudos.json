@@ -1,0 +1,14 @@
+{
+    "name": "Cudos",
+    "shortName": "CUDOS",
+    "logo": "https://atomscan.com/img/icons/chains/cudos.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/cudos",
+    "jsonRPC": "",
+    "url": "https://www.cudos.org/",
+    "description": "Cudos unites cloud and blockchain. We use spare computing to create a decentralised, sustainable, and connected world.",
+    "category": [
+        "Infrastructure"
+    ],
+    "tags": []
+}

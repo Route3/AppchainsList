@@ -1,0 +1,14 @@
+{
+    "name": "CryptoBlades",
+    "shortName": "SKILL",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9654.png",
+    "ecosystem": "Binance",
+    "blockExplorer": "https://bscscan.com/token/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab#balances",
+    "jsonRPC": "",
+    "url": "https://www.cryptoblades.io/",
+    "description": "Earn $SKILL tokens by defeating enemies, winning on PVP, and staking your gains.",
+    "category": [
+        "Gaming"
+    ],
+    "tags": []
+}

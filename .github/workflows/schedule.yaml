@@ -1,0 +1,36 @@
+name: Update data every night
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  scheduled_update:
+    runs-on: ubuntu-latest
+    container: node:18
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.BOT_ACESS_TOKEN }} 
+        
+      - name: Update value in each appchain
+        run: API_KEY=${{ secrets.CMC_KEY }} API_URL=${{ secrets.CMC_URL }} node updateValue.js
+
+      - name: Update block number in each appchain
+        run: node updateBlockByNumber.js
+
+      - name: Merge appchains and generate JSON
+        run: node generateJson.js
+
+      - name: Setup git config
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+      - name: Commit
+        run: |
+          git add .
+          git commit -m "update data.json"
+          git push origin main

@@ -1,0 +1,14 @@
+{
+    "name": "Sommelier",
+    "shortName": "SOMM",
+    "logo": "https://atomscan.com/img/icons/chains/sommelier.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/sommelier",
+    "jsonRPC": "",
+    "url": "https://www.sommelier.finance/",
+    "description": "Intelligent vaults that predict and adapt to market conditions. 24/7 and fully on-chain.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

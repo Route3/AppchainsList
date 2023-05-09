@@ -1,0 +1,14 @@
+{
+    "name": "Canto",
+    "shortName": "CANTO",
+    "logo": "https://atomscan.com/img/icons/chains/canto.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/canto",
+    "jsonRPC": "https://canto.slingshot.finance",
+    "url": "https://canto.io/",
+    "description": "Canto is a Layer-1 blockchain built to deliver on the promise of DeFi. It's a new commons powered by Free Public Infrastructure.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

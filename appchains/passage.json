@@ -1,0 +1,14 @@
+{
+    "name": "Passage",
+    "shortName": "PASG",
+    "logo": "https://atomscan.com/img/icons/chains/pasg.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/passage",
+    "jsonRPC": "",
+    "url": "https://www.passage.io/",
+    "description": "Passage gives creators the tools to build games and social experiences—no coding or downloads required.",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

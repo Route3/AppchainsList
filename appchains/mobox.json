@@ -1,0 +1,15 @@
+{
+    "name": "Mobox",
+    "shortName": "MBOX",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png",
+    "ecosystem": "Binance",
+    "blockExplorer": "https://bscscan.com/token/0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+    "jsonRPC": "",
+    "url": "https://www.mobox.io/#/",
+    "description": "Collect, Combine, Build, P2Earn",
+    "category": [
+        "Gaming",
+        "NFT"
+    ],
+    "tags": []
+}

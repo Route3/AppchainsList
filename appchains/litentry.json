@@ -1,0 +1,16 @@
+{
+    "name": "Litentry",
+    "shortName": "LIT",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6833.png",
+    "ecosystem": "Polkadot",
+    "blockExplorer": "",
+    "jsonRPC": "",
+    "url": "https://www.litentry.com/",
+    "description": "Litentry is a decentralized identity authentication and user activity data management Infrastructure build on Substrate and Polkadot parachain.",
+    "category": [
+        "Identity"
+    ],
+    "tags": [
+        "Privacy"
+    ]
+}

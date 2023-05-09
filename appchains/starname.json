@@ -1,0 +1,14 @@
+{
+    "name": "Starname",
+    "shortName": "IOV",
+    "logo": "https://atomscan.com/img/icons/chains/iov.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/starname",
+    "jsonRPC": "",
+    "url": "https://www.starname.me/",
+    "description": "The name service is built upon a Cosmos-SDK and functions as a decentralized chain agnostic name service, allowing anyone to personalize their crypto address and use one single address for all chains.",
+    "category": [
+        "Identity"
+    ],
+    "tags": []
+}

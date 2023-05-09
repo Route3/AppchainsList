@@ -1,0 +1,14 @@
+{
+    "name": "Gravity Bridge",
+    "shortName": "GRAV",
+    "logo": "https://atomscan.com/img/icons/chains/grav.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/gravity-bridge",
+    "jsonRPC": "",
+    "url": "https://www.gravitybridge.net/",
+    "description": "An open, decentralized bridge that unlocks the power of interoperability & liquidity between blockchain ecosystems.",
+    "category": [],
+    "tags": [
+        "Bridge"
+    ]
+}

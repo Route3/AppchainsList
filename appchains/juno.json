@@ -1,0 +1,14 @@
+{
+    "name": "Juno",
+    "shortName": "JUNO",
+    "logo": "https://atomscan.com/img/icons/chains/juno.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/juno",
+    "jsonRPC": "",
+    "url": "https://junonetwork.io/",
+    "description": "Use & create interoperable applications on Junø. A decentralized, public, permission-less network for cross-chain smart contracts.",
+    "category": [],
+    "tags": [
+        "Smart contract"
+    ]
+}

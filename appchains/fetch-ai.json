@@ -1,0 +1,14 @@
+{
+    "name": "Fetch.ai",
+    "shortName": "FET",
+    "logo": "https://atomscan.com/img/icons/chains/fetch.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/fetchai",
+    "jsonRPC": "",
+    "url": "https://fetch.ai/",
+    "description": "With Fetch.ai, you can build, deploy and connect smart agents to automate web3 systems and reinvent business models",
+    "category": [
+        "Infrastructure"
+    ],
+    "tags": []
+}

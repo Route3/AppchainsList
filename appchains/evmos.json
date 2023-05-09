@@ -1,0 +1,14 @@
+{
+    "name": "Evmos",
+    "shortName": "EVMOS",
+    "logo": "https://atomscan.com/img/icons/chains/evmos.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/evmos",
+    "jsonRPC": "https://evmos-json-rpc.stakely.io",
+    "url": "https://evmos.org/",
+    "description": "Supercharge your smart contracts with developer-friendly tools and unlock the power of Cosmos interoperability.",
+    "category": [],
+    "tags": [
+        "Smart contract"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Stargaze",
+    "shortName": "STARS",
+    "logo": "https://atomscan.com/img/icons/chains/stars.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/stargaze",
+    "jsonRPC": "",
+    "url": "https://www.stargaze.zone/",
+    "description": "A community-owned app chain for NFTs and beyond. 100% carbon neutral. ZERO gas. Powered by CosmWasm and $STARS. The most decentralized chain in Cosmos.",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

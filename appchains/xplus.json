@@ -1,0 +1,14 @@
+{
+    "name": "XPLUS",
+    "shortName": "",
+    "logo": "https://pbs.twimg.com/profile_images/1645760678966489093/H0xxhktn_400x400.jpg",
+    "ecosystem": "Avalanche",
+    "blockExplorer": "https://subnets.avax.network/subnets/2aa7G6cQbomnqyhBexzWPmvihio8Uk1qrzYpBRNH2wcNpBkgNU",
+    "jsonRPC": "",
+    "url": "https://xplus.com/",
+    "description": "XPlus stores user behavior and achievements on-chain, and increases user bonding, transparency, privacy, and security for the entire XPLUS Ecosystem.",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

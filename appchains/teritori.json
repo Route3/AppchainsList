@@ -1,0 +1,12 @@
+{
+    "name": "Teritori",
+    "shortName": "TORI",
+    "logo": "https://atomscan.com/img/icons/chains/teritori.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://explorer.teritori.com/teritori",
+    "jsonRPC": "",
+    "url": "https://teritori.com/",
+    "description": "Web3 OS for humans & organizations",
+    "category": [],
+    "tags": []
+}

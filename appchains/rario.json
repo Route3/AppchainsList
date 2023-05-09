@@ -1,0 +1,14 @@
+{
+    "name": "Rario",
+    "shortName": "",
+    "logo": "https://pbs.twimg.com/profile_images/1539214257036099584/z--mRXU0_400x400.jpg",
+    "ecosystem": "Polygon",
+    "blockExplorer": "https://explorer.mainnet.rario.com/",
+    "jsonRPC": "",
+    "url": "https://www.rario.com/",
+    "description": "World's first officially licensed digital collectibles platform where you can buy cricket digital player cards, participate in FREE contests and win awesome rewards.",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

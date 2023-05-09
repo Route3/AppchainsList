@@ -1,0 +1,12 @@
+{
+    "name": "Axelar",
+    "shortName": "AXL",
+    "logo": "https://atomscan.com/img/icons/chains/axelar.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/axelar",
+    "jsonRPC": "",
+    "url": "https://axelar.network/",
+    "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
+    "category": [],
+    "tags": []
+}

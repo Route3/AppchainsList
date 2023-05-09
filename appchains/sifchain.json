@@ -1,0 +1,16 @@
+{
+    "name": "Sifchain",
+    "shortName": "EROWAN",
+    "logo": "https://atomscan.com/img/icons/chains/sifchain.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/sifchain",
+    "jsonRPC": "",
+    "url": "https://www.sifchain.finance/",
+    "description": "The Cosmos IBC’s leading Omni-Chain Dex, where you can swap, stake, and bridge between Ethereum and Cosmos with faster transactions and lower fees.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": [
+        "DEX"
+    ]
+}

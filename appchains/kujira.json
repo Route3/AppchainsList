@@ -1,0 +1,14 @@
+{
+    "name": "Kujira",
+    "shortName": "KUJI",
+    "logo": "https://atomscan.com/img/icons/chains/kujira.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/kujira",
+    "jsonRPC": "",
+    "url": "https://kujira.app/",
+    "description": "A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

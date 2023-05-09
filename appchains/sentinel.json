@@ -1,0 +1,14 @@
+{
+    "name": "Sentinel",
+    "shortName": "DVPN",
+    "logo": "https://atomscan.com/img/icons/chains/dvpn.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/sentinel",
+    "jsonRPC": "",
+    "url": "https://sentinel.co/",
+    "description": "The Sentinel ecosystem is a global network of autonomous dVPN applications that enable private and censorship resistant internet access",
+    "category": [],
+    "tags": [
+        "Security"
+    ]
+}

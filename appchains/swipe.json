@@ -1,0 +1,16 @@
+{
+    "name": "Swipe",
+    "shortName": "SXP",
+    "logo": "https://swipe.io/images/platform-media-swipe.svg",
+    "ecosystem": "Binance",
+    "blockExplorer": "",
+    "jsonRPC": "",
+    "url": "https://swipe.io/",
+    "description": "Swipe powers a robust platform that enable businesses to create card programs for users to spend anything globally.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": [
+        "DEX"
+    ]
+}

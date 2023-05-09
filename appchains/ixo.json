@@ -1,0 +1,12 @@
+{
+    "name": "IXO",
+    "shortName": "IXO",
+    "logo": "https://atomscan.com/img/icons/chains/ixo.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/ixo",
+    "jsonRPC": "",
+    "url": "https://www.ixo.world/",
+    "description": "The ixo Protocol defines the new standard for making Verifiable Impact Claims about how people and organisations are changing the state of the world, using high-definition data as evidence.",
+    "category": [],
+    "tags": []
+}

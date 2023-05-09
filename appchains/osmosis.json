@@ -1,0 +1,16 @@
+{
+    "name": "Osmosis",
+    "shortName": "OSMO",
+    "logo": "https://atomscan.com/img/icons/chains/osmosis.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/osmosis",
+    "jsonRPC": "",
+    "url": "https://osmosis.zone/",
+    "description": "Swap, earn, and build on the leading decentralized Cosmos exchange.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": [
+        "DEX"
+    ]
+}

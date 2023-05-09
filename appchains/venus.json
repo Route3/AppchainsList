@@ -1,0 +1,14 @@
+{
+    "name": "Venus",
+    "shortName": "XVS",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png",
+    "ecosystem": "Binance",
+    "blockExplorer": "https://bscscan.com/token/0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "jsonRPC": "",
+    "url": "https://venus.io/",
+    "description": "Simple and powerful community-driven finance for the entire globe.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

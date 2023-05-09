@@ -1,0 +1,14 @@
+{
+    "name": "Provenance",
+    "shortName": "HASH",
+    "logo": "https://atomscan.com/img/icons/chains/provenance.jpeg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/provenance",
+    "jsonRPC": "",
+    "url": "https://provenance.io/",
+    "description": "Enabling institutions and fintechs to seamlessly and securely issue, transact, and service digitally-native financial assets at scale on the decentralized Provenance Blockchain.",
+    "category": [
+        "DeFi"
+    ],
+    "tags": []
+}

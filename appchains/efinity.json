@@ -1,0 +1,14 @@
+{
+    "name": "Efinity",
+    "shortName": "EFI",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8985.png",
+    "ecosystem": "Polkadot",
+    "blockExplorer": "https://efinity.subscan.io/",
+    "jsonRPC": "",
+    "url": "https://enjin.io/efinity-crowdloan",
+    "description": "Efinity is a cross-chain NFT platform developed by Enjin and built on Polkadot. Efinity was created as the next generation blockchain for digital assets with the aim of adapting to the challenges of the world of non-fungible tokens, according to the project.",
+    "category": [
+        "NFT"
+    ],
+    "tags": []
+}

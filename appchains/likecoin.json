@@ -1,0 +1,14 @@
+{
+    "name": "Likecoin",
+    "shortName": "LIKE",
+    "logo": "https://atomscan.com/img/icons/chains/likecoin.svg",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/likecoin",
+    "jsonRPC": "",
+    "url": "https://about.like.co/",
+    "description": "LikeCoin is an application-specific blockchain on decentralized publishing built on Cosmos SDK. LikeCoin provides open source products ranging from infrastructure to publishing tools for creators on board to Web3.",
+    "category": [
+        "Infrastructure"
+    ],
+    "tags": []
+}

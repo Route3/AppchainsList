@@ -1,0 +1,12 @@
+{
+    "name": "Astar",
+    "shortName": "ASTR",
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12885.png",
+    "ecosystem": "Polkadot",
+    "blockExplorer": "https://astar.subscan.io/",
+    "jsonRPC": "https://astar.public.blastapi.io",
+    "url": "https://astar.network/",
+    "description": "Astar is a scalable decentralized blockchain for the next big Web3 innovations.",
+    "category": [],
+    "tags": []
+}

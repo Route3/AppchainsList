@@ -1,0 +1,14 @@
+{
+    "name": "Dexalot",
+    "shortName": "ALOT",
+    "logo": "https://app.dexalot.com/logos/dexalot_logo.png",
+    "ecosystem": "Avalanche",
+    "blockExplorer": "https://subnets.avax.network/dexalot",
+    "jsonRPC": "https://subnets.avax.network/dexalot/mainnet/rpc",
+    "url": "https://app.dexalot.com/trade",
+    "description": "The Dexalot Exchange EVM subnet is a revolutionary decentralized exchange aiming at bringing the traditional centralized exchange look and feel, through a decentralized on-chain application. Dexalot users can trade crypto securely and efficiently, with no slippage or custody risk. It is built on Avalanche Subnet technology, the most effective scaling solution in the blockchain industry.",
+    "category": [
+        "DEX"
+    ],
+    "tags": []
+}

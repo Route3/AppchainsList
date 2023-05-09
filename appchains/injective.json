@@ -1,0 +1,14 @@
+{
+    "name": "Injective",
+    "shortName": "INJ",
+    "logo": "https://atomscan.com/img/icons/chains/injective.png",
+    "ecosystem": "Cosmos",
+    "blockExplorer": "https://atomscan.com/injective",
+    "jsonRPC": "",
+    "url": "https://injective.com/",
+    "description": "Build and use the best Web3 applications on Injective, the fastest layer 1 blockchain shaping the future of finance.",
+    "category": [],
+    "tags": [
+        "Smart contract"
+    ]
+}
