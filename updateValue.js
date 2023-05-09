@@ -57,13 +57,11 @@ const getQuote = (symbol) => {
         res.on("end", () => {
           console.log("Response ended: ", symbol);
           const response = JSON.parse(data);
-
-
-          const data = response?.data
+          const responseData = response?.data
 
           let quote
-          if (data) {
-            quote = data[symbol]?.quote?.USD;
+          if (responseData) {
+            quote = responseData[symbol]?.quote?.USD;
           }
 
           if (!quote) {
