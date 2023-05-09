@@ -3,6 +3,8 @@
 <p align="center">
   <img width="64" alt="appchainslist-logo" src="https://user-images.githubusercontent.com/2997571/237005992-d44bac83-95b0-43dd-9028-655a20076bef.png">
   <br><br>
+  <b><a href="https://appchainslist.xyz">appchainslist.xyz</a></b>
+  <br>
   <b>Appchainslist is an ecosystem agnostic directory of all Appchains to which anybody can contribute.</b>
 </p>
 
