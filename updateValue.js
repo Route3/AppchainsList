@@ -14,6 +14,12 @@ fs.readdir(directoryPath, (err, files) => {
     const tmpAppChain = readFile(directoryPath + "/" + file);
     const tmpShortName = tmpAppChain.shortName;
 
+
+    if (tmpShortName.trim() === "") {
+      console.log("No short name provided for " + tmpAppChain.name);
+      return
+    }
+
     getQuote(tmpShortName)
       .then((data) => {
         tmpAppChain.value = data.price;
