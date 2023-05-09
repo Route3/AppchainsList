@@ -1,15 +1,1 @@
-{
-    "name": "Iris",
-    "shortName": "IRIS",
-    "logo": "https://atomscan.com/img/icons/chains/iris.svg",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/iris-network",
-    "jsonRPC": "",
-    "url": "https://www.irisnet.org/",
-    "description": "Interchain #NFT Hub for new-gen #DApps. IRIS Hub enables cross-chain interoperability while providing modules to support distributed business systems.",
-    "category": [
-        "Infrastructure",
-        "NFT"
-    ],
-    "tags": []
-}
+{"name":"Iris","shortName":"IRIS","logo":"https://atomscan.com/img/icons/chains/iris.svg","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/iris-network","jsonRPC":"","url":"https://www.irisnet.org/","description":"Interchain #NFT Hub for new-gen #DApps. IRIS Hub enables cross-chain interoperability while providing modules to support distributed business systems.","category":["Infrastructure","NFT"],"tags":[],"value":0.02143218959155456,"valueUpdated":"2023-05-09T10:53:00.000Z"}

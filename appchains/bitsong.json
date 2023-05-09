@@ -1,14 +1,1 @@
-{
-    "name": "Bitsong",
-    "shortName": "BTSG",
-    "logo": "https://atomscan.com/img/icons/chains/btsg.svg",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/bitsong",
-    "jsonRPC": "",
-    "url": "https://bitsong.io/",
-    "description": "Artists, Fans, Managers and Labels in One Single Holistic Ecosystem: $BTSG. Earn real-time royalties, discover exclusive content, mint and trade Fantokens, buy & sell NFTs.",
-    "category": [
-        "NFT"
-    ],
-    "tags": []
-}
+{"name":"Bitsong","shortName":"BTSG","logo":"https://atomscan.com/img/icons/chains/btsg.svg","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/bitsong","jsonRPC":"","url":"https://bitsong.io/","description":"Artists, Fans, Managers and Labels in One Single Holistic Ecosystem: $BTSG. Earn real-time royalties, discover exclusive content, mint and trade Fantokens, buy & sell NFTs.","category":["NFT"],"tags":[],"value":0.024987206495605305,"valueUpdated":"2023-05-09T10:53:00.000Z"}

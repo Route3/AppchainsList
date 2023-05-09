@@ -1,14 +1,1 @@
-{
-    "name": "Kujira",
-    "shortName": "KUJI",
-    "logo": "https://atomscan.com/img/icons/chains/kujira.png",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/kujira",
-    "jsonRPC": "",
-    "url": "https://kujira.app/",
-    "description": "A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": []
-}
+{"name":"Kujira","shortName":"KUJI","logo":"https://atomscan.com/img/icons/chains/kujira.png","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/kujira","jsonRPC":"","url":"https://kujira.app/","description":"A decentralized ecosystem for protocols, builders and web3 users seeking sustainable FinTech.","category":["DeFi"],"tags":[],"value":0.5997890696001256,"valueUpdated":"2023-05-09T10:53:00.000Z"}

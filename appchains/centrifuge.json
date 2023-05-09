@@ -1,14 +1,1 @@
-{
-    "name": "Centrifuge",
-    "shortName": "CFG",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png",
-    "ecosystem": "Polkadot",
-    "blockExplorer": "https://centrifuge.subscan.io/",
-    "jsonRPC": "",
-    "url": "https://centrifuge.io/",
-    "description": "Centrifuge is a decentralized asset financing protocol. It connects decentralized finance (DeFi) with real-world assets (RWA). The main goal of Centrifuge is to generate profits that are not tied to volatile crypto assets.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": []
-}
+{"name":"Centrifuge","shortName":"CFG","logo":"https://s2.coinmarketcap.com/static/img/coins/64x64/6748.png","ecosystem":"Polkadot","blockExplorer":"https://centrifuge.subscan.io/","jsonRPC":"","url":"https://centrifuge.io/","description":"Centrifuge is a decentralized asset financing protocol. It connects decentralized finance (DeFi) with real-world assets (RWA). The main goal of Centrifuge is to generate profits that are not tied to volatile crypto assets.","category":["DeFi"],"tags":[],"value":0.19975276807124692,"valueUpdated":"2023-05-09T10:52:00.000Z"}

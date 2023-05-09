@@ -1,14 +1,1 @@
-{
-    "name": "Interlay",
-    "shortName": "INTR",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20366.png",
-    "ecosystem": "Polkadot",
-    "blockExplorer": "https://interlay.subscan.io/",
-    "jsonRPC": "",
-    "url": "https://www.interlay.io/",
-    "description": "Interlay is a decentralized network for creating cross-chain, asset-backed stablecoins and synthetics. Interlay’s flagship product is interBTC (iBTC), a 1:1 Bitcoin-backed asset secured by a decentralized custody network, a multi-collateral system, and cross-chain cryptography.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": []
-}
+{"name":"Interlay","shortName":"INTR","logo":"https://s2.coinmarketcap.com/static/img/coins/64x64/20366.png","ecosystem":"Polkadot","blockExplorer":"https://interlay.subscan.io/","jsonRPC":"","url":"https://www.interlay.io/","description":"Interlay is a decentralized network for creating cross-chain, asset-backed stablecoins and synthetics. Interlay’s flagship product is interBTC (iBTC), a 1:1 Bitcoin-backed asset secured by a decentralized custody network, a multi-collateral system, and cross-chain cryptography.","category":["DeFi"],"tags":[],"value":0.022421733227904767,"valueUpdated":"2023-05-09T10:53:00.000Z"}

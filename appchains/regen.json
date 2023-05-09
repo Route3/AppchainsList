@@ -1,16 +1,1 @@
-{
-    "name": "Regen",
-    "shortName": "REGEN",
-    "logo": "https://atomscan.com/img/icons/chains/regen.png",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/regen-network",
-    "jsonRPC": "",
-    "url": "https://www.regen.network/",
-    "description": "Regen Network, a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects",
-    "category": [
-        "DeFi"
-    ],
-    "tags": [
-        "Environmentalism"
-    ]
-}
+{"name":"Regen","shortName":"REGEN","logo":"https://atomscan.com/img/icons/chains/regen.png","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/regen-network","jsonRPC":"","url":"https://www.regen.network/","description":"Regen Network, a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects","category":["DeFi"],"tags":["Environmentalism"],"value":0.08668221432460807,"valueUpdated":"2023-05-09T10:53:00.000Z"}

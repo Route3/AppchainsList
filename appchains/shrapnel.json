@@ -1,15 +1,1 @@
-{
-    "name": "Shrapnel",
-    "shortName": "SHRAPGAS",
-    "logo": "https://media.licdn.com/dms/image/D560BAQFZ4FxxBCr5gg/company-logo_200_200/0/1667449042108?e=2147483647&v=beta&t=Kbk5zqk3xq1LvdxFo27seat67ihOp8FjB2p6FkkqBPA",
-    "ecosystem": "Avalanche",
-    "blockExplorer": "https://subnets.avax.network/shrapnel",
-    "jsonRPC": "https://subnets.avax.network/shrapnel/mainnet/rpc",
-    "url": "https://www.shrapnel.com/",
-    "description": "AAA Extraction FPS powered by next-gen community-driven tools, built on the blockchain to offer true ownership.",
-    "category": [
-        "Gaming",
-        "NFT"
-    ],
-    "tags": []
-}
+{"name":"Shrapnel","shortName":"SHRAPGAS","logo":"https://media.licdn.com/dms/image/D560BAQFZ4FxxBCr5gg/company-logo_200_200/0/1667449042108?e=2147483647&v=beta&t=Kbk5zqk3xq1LvdxFo27seat67ihOp8FjB2p6FkkqBPA","ecosystem":"Avalanche","blockExplorer":"https://subnets.avax.network/shrapnel","jsonRPC":"https://subnets.avax.network/shrapnel/mainnet/rpc","url":"https://www.shrapnel.com/","description":"AAA Extraction FPS powered by next-gen community-driven tools, built on the blockchain to offer true ownership.","category":["Gaming","NFT"],"tags":[],"blockNumber":1546,"blockNumberUpdated":"2023-05-08T20:25:11.000Z"}

@@ -1,14 +1,1 @@
-{
-    "name": "MELD",
-    "shortName": "MELD",
-    "logo": "https://meld-assets.fra1.cdn.digitaloceanspaces.com/meld_logo_sm.png",
-    "ecosystem": "Avalanche",
-    "blockExplorer": "https://subnets.avax.network/meld",
-    "jsonRPC": "https://subnets.avax.network/meld/mainnet/rpc",
-    "url": "https://www.meld.com/",
-    "description": "MELD is a non-custodial DeFi protocol for web3 finance, providing cross-chain lending, borrowing and staking on the MELD blockchain supporting the six leading blockchains as well as integrated fiat banking*.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": []
-}
+{"name":"MELD","shortName":"MELD","logo":"https://meld-assets.fra1.cdn.digitaloceanspaces.com/meld_logo_sm.png","ecosystem":"Avalanche","blockExplorer":"https://subnets.avax.network/meld","jsonRPC":"https://subnets.avax.network/meld/mainnet/rpc","url":"https://www.meld.com/","description":"MELD is a non-custodial DeFi protocol for web3 finance, providing cross-chain lending, borrowing and staking on the MELD blockchain supporting the six leading blockchains as well as integrated fiat banking*.","category":["DeFi"],"tags":[],"blockNumber":78,"blockNumberUpdated":"2023-05-08T12:05:31.000Z"}

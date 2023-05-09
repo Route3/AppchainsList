@@ -1,14 +1,1 @@
-{
-    "name": "Crescent",
-    "shortName": "CRE",
-    "logo": "https://atomscan.com/img/icons/chains/crescent.svg",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/crescent",
-    "jsonRPC": "",
-    "url": "https://crescent.network/",
-    "description": "Innovating DeFi investment through advancements in inter-blockchain technology",
-    "category": [
-        "DeFi"
-    ],
-    "tags": []
-}
+{"name":"Crescent","shortName":"CRE","logo":"https://atomscan.com/img/icons/chains/crescent.svg","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/crescent","jsonRPC":"","url":"https://crescent.network/","description":"Innovating DeFi investment through advancements in inter-blockchain technology","category":["DeFi"],"tags":[],"value":0.0043057590436201216,"valueUpdated":"2023-05-09T10:53:00.000Z"}

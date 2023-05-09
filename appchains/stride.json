@@ -1,16 +1,1 @@
-{
-    "name": "Stride",
-    "shortName": "STRD",
-    "logo": "https://atomscan.com/img/icons/chains/strd.svg",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/stride",
-    "jsonRPC": "",
-    "url": "https://stride.zone/",
-    "description": "Join 50K+ Cosmonauts who use Stride. Secure the Cosmos. Unlock liquidity and earn more yield.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": [
-        "Staking"
-    ]
-}
+{"name":"Stride","shortName":"STRD","logo":"https://atomscan.com/img/icons/chains/strd.svg","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/stride","jsonRPC":"","url":"https://stride.zone/","description":"Join 50K+ Cosmonauts who use Stride. Secure the Cosmos. Unlock liquidity and earn more yield.","category":["DeFi"],"tags":["Staking"],"value":1.5128577536024692,"valueUpdated":"2023-05-09T10:53:00.000Z"}
