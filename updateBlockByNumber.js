@@ -63,11 +63,16 @@ const handleCosmos = (chain) => {
 
 const handleCosmosResponse = (data, chain) => {
   console.log("Response fetched: ", chain.shortName);
-  const result = getResult(data, chain.shortName);
 
-  chain.blockNumber = result.sync_info?.latest_block_height;
-  chain.blockNumberUpdated = result.sync_info?.latest_block_time;
-  writeJSONFile(chain);
+  try {
+    const result = getResult(data, chain.shortName);
+
+    chain.blockNumber = result.sync_info?.latest_block_height;
+    chain.blockNumberUpdated = result.sync_info?.latest_block_time;
+    writeJSONFile(chain);
+  } catch (error) {
+    console.log("Error fetching block height for " + chain.shortName + ": ", error);
+  }
 };
 
 const handleEth = (chain) => {
@@ -105,11 +110,16 @@ const handleEth = (chain) => {
 
 const handleEthResponse = (data, chain) => {
   console.log("Response ended: ", chain.shortName);
-  const result = getResult(data, chain.shortName);
+  
+  try {
+    const result = getResult(data, chain.shortName);
 
-  chain.blockNumber = parseInt(result.number, 16);
-  chain.blockNumberUpdated = new Date(result.timestamp * 1000).toISOString();
-  writeJSONFile(chain);
+    chain.blockNumber = parseInt(result.number, 16);
+    chain.blockNumberUpdated = new Date(result.timestamp * 1000).toISOString();
+    writeJSONFile(chain);
+  } catch (error) {
+    console.log("Error fetching block height for " + chain.shortName + ": ", error);
+  }
 };
 
 const getResult = (data, chainName) => {
