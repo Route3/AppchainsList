@@ -23,9 +23,13 @@ const readFile = (fileDir) => {
 
 const updateHeight = (chain) => {
   if (chain.jsonRPC) {
-    chain.ecosystem.toLowerCase() === "cosmos"
-      ? handleCosmos(chain)
-      : handleEth(chain);
+    try {
+      chain.ecosystem.toLowerCase() === "cosmos"
+        ? handleCosmos(chain)
+        : handleEth(chain);
+    } catch (error) {
+      console.log("Error fetching block height for " + chain.shortName + ": ", error);
+    }
   } else {
     console.log("RPC is not provided for " + chain.shortName);
   }
