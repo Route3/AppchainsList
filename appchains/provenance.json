@@ -1,14 +1,1 @@
-{
-    "name": "Provenance",
-    "shortName": "HASH",
-    "logo": "https://atomscan.com/img/icons/chains/provenance.jpeg",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://atomscan.com/provenance",
-    "jsonRPC": "",
-    "url": "https://provenance.io/",
-    "description": "Enabling institutions and fintechs to seamlessly and securely issue, transact, and service digitally-native financial assets at scale on the decentralized Provenance Blockchain.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": []
-}
+{"name":"Provenance","shortName":"HASH","logo":"https://atomscan.com/img/icons/chains/provenance.jpeg","ecosystem":"Cosmos","blockExplorer":"https://atomscan.com/provenance","jsonRPC":"","url":"https://provenance.io/","description":"Enabling institutions and fintechs to seamlessly and securely issue, transact, and service digitally-native financial assets at scale on the decentralized Provenance Blockchain.","category":["DeFi"],"tags":[],"value":0.04019059065997623,"valueUpdated":"2023-05-18T00:36:00.000Z"}
