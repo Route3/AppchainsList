@@ -1,15 +1,1 @@
-{
-    "name": "Nexon",
-    "shortName": "NX",
-    "logo": "https://companieslogo.com/img/orig/3659.T-47efe53c.png",
-    "ecosystem": "Polygon",
-    "blockExplorer": "",
-    "jsonRPC": "",
-    "url": "https://www.nexon.com/",
-    "description": "Korean game development studio behind 80 titles, including the NFT game MapleStory Universe",
-    "category": [
-        "Gaming",
-        "NFT"
-    ],
-    "tags": []
-}
+{"name":"Nexon","shortName":"NX","logo":"https://companieslogo.com/img/orig/3659.T-47efe53c.png","ecosystem":"Polygon","blockExplorer":"","jsonRPC":"","url":"https://www.nexon.com/","description":"Korean game development studio behind 80 titles, including the NFT game MapleStory Universe","category":["Gaming","NFT"],"tags":[],"value":0.00005013838691801041,"valueUpdated":"2023-01-17T18:30:00.000Z"}
