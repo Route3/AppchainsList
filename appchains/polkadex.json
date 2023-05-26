@@ -1,16 +1,1 @@
-{
-    "name": "Polkadex",
-    "shortName": "PDEX",
-    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9017.png",
-    "ecosystem": "Polkadot",
-    "blockExplorer": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.polkadex.trade#/explorer",
-    "jsonRPC": "",
-    "url": "https://polkadex.trade/",
-    "description": "Polkadex Orderbook is a non-custodial peer-to-peer trading platform that merges the benefits of both centralized and decentralized exchanges in one product.",
-    "category": [
-        "DeFi"
-    ],
-    "tags": [
-        "DEX"
-    ]
-}
+{"name":"Polkadex","shortName":"PDEX","logo":"https://s2.coinmarketcap.com/static/img/coins/64x64/9017.png","ecosystem":"Polkadot","blockExplorer":"https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.polkadex.trade#/explorer","jsonRPC":"","url":"https://polkadex.trade/","description":"Polkadex Orderbook is a non-custodial peer-to-peer trading platform that merges the benefits of both centralized and decentralized exchanges in one product.","category":["DeFi"],"tags":["DEX"],"value":1.2668584265761573,"valueUpdated":"2023-05-26T00:36:00.000Z"}

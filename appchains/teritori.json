@@ -1,12 +1,1 @@
-{
-    "name": "Teritori",
-    "shortName": "TORI",
-    "logo": "https://atomscan.com/img/icons/chains/teritori.svg",
-    "ecosystem": "Cosmos",
-    "blockExplorer": "https://explorer.teritori.com/teritori",
-    "jsonRPC": "",
-    "url": "https://teritori.com/",
-    "description": "Web3 OS for humans & organizations",
-    "category": [],
-    "tags": []
-}
+{"name":"Teritori","shortName":"TORI","logo":"https://atomscan.com/img/icons/chains/teritori.svg","ecosystem":"Cosmos","blockExplorer":"https://explorer.teritori.com/teritori","jsonRPC":"","url":"https://teritori.com/","description":"Web3 OS for humans & organizations","category":[],"tags":[],"value":0,"valueUpdated":"2023-05-26T00:38:45.906Z"}
